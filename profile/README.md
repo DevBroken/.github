@@ -59,7 +59,7 @@ Estas son algunas de las tecnologías con las que trabajo:
 | ------------------- | --------------------------------------------------------------------------------------------- | ---------------- |
 | **PHPost**          | Modernización completa del clásico script PHPost hacia una arquitectura moderna para PHP 8.5. | 🚧 En desarrollo |
 | **ZCode v4**        | Nueva generación de ZCode enfocada en la modernización integral del núcleo del sistema.       | 🚧 En desarrollo |
-| **PHPDevBroken**    | Plataforma oficial de la comunidad DevBroken. Basada en PHPost, funcionará como foro, centro de documentación y distribución de proyectos y centralizar el ecosistema DevBroken.   | 🚧 En desarrollo |
+| **BigBang**         | Plataforma oficial de la comunidad DevBroken. Basada en PHPost, funcionará como foro, centro de documentación y distribución de proyectos y centralizar el ecosistema DevBroken.   | 🚧 En desarrollo |
 | **Próximamente...** | Nuevos proyectos Open Source y comerciales.                                                   | 💡               |
 
 ---
